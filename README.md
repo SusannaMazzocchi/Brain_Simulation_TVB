@@ -3,7 +3,7 @@
 --------
 
 ## 📝 Short introduction on the project
-I worked on this project with my colleague and friend Claudia for our Brain Modelling course (BSc in Artificial Intelligence). Our goal was to explore how the dynamic activity of the brain (*Functional Connectivity*) emerges from its fixed physical "wiring" (*Structural Connectivity*). To do this, we simulated whole-brain activity using two radically different mathematical models (the Reduced Wong-Wang and the Wilson-Cowan models) inside **The Virtual Brain (TVB)** simulator. 
+Hi everyone! I'm Susanna, I worked on this project with my colleague and friend Claudia for our Brain Modelling course (BSc in Artificial Intelligence). Our goal was to explore how the dynamic activity of the brain (*Functional Connectivity*) emerges from its fixed physical "wiring" (*Structural Connectivity*). To do this, we simulated whole-brain activity using two radically different mathematical models (the Reduced Wong-Wang and the Wilson-Cowan models) inside **The Virtual Brain (TVB)** simulator. 
 
 --------
 
