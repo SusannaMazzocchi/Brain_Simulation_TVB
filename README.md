@@ -2,12 +2,12 @@
 
 --------
 
-## Short introduction on the project
+## 📝 Short introduction on the project
 I worked on this project with my colleague and friend Claudia for our Brain Modelling course (BSc in Artificial Intelligence). Our goal was to explore how the dynamic activity of the brain (*Functional Connectivity*) emerges from its fixed physical "wiring" (*Structural Connectivity*). To do this, we simulated whole-brain activity using two radically different mathematical models (the Reduced Wong-Wang and the Wilson-Cowan models) inside **The Virtual Brain (TVB)** simulator. 
 
 --------
 
-## Technologies/tools used
+## 🛠️ Technologies/tools used
 * **Python 3** - The core language for our simulations and data analysis.
 * **The Virtual Brain (TVB)** - An amazing neuroinformatics platform for full-brain network simulations.
 * **Jupyter Notebook** - Used to write the code, run simulations, and display results interactively.
@@ -16,7 +16,7 @@ I worked on this project with my colleague and friend Claudia for our Brain Mode
 
 --------
 
-## Features
+## ✨ Features
 * **Whole-Brain Simulation:** We successfully simulated brain activity based on real anatomical constraints (white matter tracts).
 * **Model Comparison:** A deep dive into two different mean-field models:
   * *Reduced Wong-Wang (RWW):* Great for capturing slow, attractor-like dynamics and robust synchronization.
@@ -26,13 +26,13 @@ I worked on this project with my colleague and friend Claudia for our Brain Mode
 
 --------
 
-## Process
+## 🚀 Process
 We started by loading the brain's physical "wiring diagram" (Structural Connectivity) into The Virtual Brain simulator. Then, we applied our two mean-field models (RWW and WC) to these physical connections. 
 We ran computational simulations to generate artificial brain activity.! After generating the data, we computed the Functional Connectivity (FC) matrices. The most challenging and rewarding part was the optimization phase: we iteratively adjusted the global coupling parameter to see how the mathematical brain reacted, eventually finding the optimal balance between physical constraints and dynamical freedom.
 
 --------
 
-## What I learned
+## 🧠 What I learned
 From a technical perspective, I learned how to use *The Virtual Brain* framework and how to translate complex differential equations into Python code to simulate neural populations. 
 
 But conceptually, I learned something even more interesting: anatomical structure is necessary, but not enough on its own to explain full brain dynamics. I discovered that the biological brain likely operates near a "critical bifurcation point" which is a perfect balance where fixed physical structures and flexible, dynamic thoughts coexist. Realizing that we could simulate this biological phenomenon using code was an incredibly rewarding experience.
