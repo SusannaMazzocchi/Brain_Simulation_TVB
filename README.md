@@ -46,4 +46,25 @@ If we had more time to expand this research, I would love to:
 * **Longer Simulations:** Run much longer simulations on high-performance computers to capture even slower, more complex brain wave patterns.
 
 --------
+## ▶️ How to run the project
+I highly recommend exploring the notebook to see the brain matrices and optimization results!
 
+1. **Clone the repository:**
+   Open your terminal and run:
+   ```bash
+   git clone [https://github.com/SusannaMazzocchi/Brain_Simulation_TVB.git](https://github.com/SusannaMazzocchi/Brain_Simulation_TVB.git)
+   cd Brain_Modelling_TVB
+
+2. Check the requirements:
+Please read the requirements.txt file carefully. It contains all the instructions to set up your virtual environment and install TVB along with the necessary plotting libraries.
+
+3. Load the right Connectome:
+When setting up the simulation in the notebook, make sure to use the data connectivity 76 (which represents the default TVB connectome featuring 76 distinct brain regions).
+
+4. Open the Notebook:
+Start Jupyter to view and run the simulation code:
+   ```bash
+    jupyter notebook brain_modeling.ipynb
+(Alternatively, you can upload the notebook and run it directly in Google Colab!).
+------------
+Please read our complete report; inside, you will find all the in-depth data analysis, the mathematical evaluations, and the graphs we generated to compare the RWW and WC models.
