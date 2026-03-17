@@ -28,7 +28,7 @@ Hi everyone! I'm Susanna, I worked on this project with my colleague and friend 
 
 ## 🚀 Process
 We started by loading the brain's physical "wiring diagram" (Structural Connectivity) into The Virtual Brain simulator. Then, we applied our two mean-field models (RWW and WC) to these physical connections. 
-We ran computational simulations to generate artificial brain activity.! After generating the data, we computed the Functional Connectivity (FC) matrices. The most challenging and rewarding part was the optimization phase: we iteratively adjusted the global coupling parameter to see how the mathematical brain reacted, eventually finding the optimal balance between physical constraints and dynamical freedom.
+We ran computational simulations to generate artificial brain activity. After generating the data, we computed the Functional Connectivity (FC) matrices. The most challenging and rewarding part was the optimization phase: we iteratively adjusted the global coupling parameter to see how the mathematical brain reacted, eventually finding the optimal balance between physical constraints and dynamical freedom.
 
 --------
 
